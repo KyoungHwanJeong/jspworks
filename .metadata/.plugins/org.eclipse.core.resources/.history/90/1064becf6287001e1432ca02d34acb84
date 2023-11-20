@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>실습 예제</title>
+</head>
+<body>
+	<!-- 홀수/짝수를 판별하는 프로그램(표현문 태그로 출력을 해야 함) -->
+	<%
+		int num;
+	%>
+
+</body>
+</html>
