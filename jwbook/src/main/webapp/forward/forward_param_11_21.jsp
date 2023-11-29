@@ -9,7 +9,7 @@
 <body>
 
 	<h2>아이디와 비밀번호 전달하기</h2>
-	<jsp:forward page="param_data.jsp">
+	<jsp:forward page="param_data_11_21.jsp">
 		<jsp:param value="today" name="id"/>
 		<jsp:param value="1234" name="pwd"/>
 	</jsp:forward>

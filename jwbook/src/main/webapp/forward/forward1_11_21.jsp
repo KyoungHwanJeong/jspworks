@@ -12,7 +12,7 @@
 	
 	<!-- forward_date.jsp로 연결해줌 오늘 날짜를 출력해주는 페이지 -->
 	<!-- 주소는 자기 주소를 가져가고 내용만 forward 페이지로 이동한다 -->
-	<jsp:forward page="forward_date.jsp"></jsp:forward>
+	<jsp:forward page="forward_date_11_21.jsp"></jsp:forward>
 	
 </body>
 </html>

@@ -2,7 +2,6 @@
  * time.jsp 시계 구현
  */
 
-// setInerval 함수 이용
  setInterval(myWatch, 1000);
  
  function myWatch(){

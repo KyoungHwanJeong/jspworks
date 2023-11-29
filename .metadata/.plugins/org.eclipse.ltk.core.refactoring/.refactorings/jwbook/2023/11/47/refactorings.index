@@ -21,3 +21,33 @@
 1700542654193	Copy file
 1700546949345	Delete element
 1700550657097	Copy file
+1700615402069	Copy file
+1700615419022	Rename resource 'loginForm_11_21.jsp'
+1700639604955	Rename package 'servlet.dispatch'
+1700639670959	Delete element
+1700639674491	Delete element
+1700639962416	Rename type 'FirstServlet'
+1700640030769	Rename type 'SecondServlet'
+1700640690500	Rename type 'FirstServlet_11_22'
+1700642369034	Delete element
+1700788536353	Rename type 'SessionServlet'
+1700790806621	Move 'session' to 'servlet'
+1700790870029	Delete element
+1700790890445	Copy compilation unit
+1700790930125	Copy file
+1700790943651	Rename resource 'loginForm_11_21.jsp'
+1700792552044	Copy file
+1700792557323	Delete element
+1700792708010	Rename resource 'createSession.jsp'
+1700792714600	Rename resource 'session01.jsp'
+1700792720343	Rename resource 'session01Process.jsp'
+1700792726484	Rename resource 'session02.jsp'
+1700792732098	Rename resource 'session03.jsp'
+1700792739031	Rename resource 'timeout.jsp'
+1700810725069	Copy file
+1700812905608	Copy file
+1700814558037	Rename resource 'loginProcess.jsp'
+1700814581737	Rename resource 'validation01.jsp'
+1700814587160	Rename resource 'validation2.jsp'
+1700814595986	Rename resource 'regex1.jsp'
+1700814738282	Copy file
